@@ -22,11 +22,12 @@ display: inline-block;
     color: white;
     background-color: #13a4a4;
     border-radius: 2px;
-    padding: 5px;
+    padding: 5px 15px;
 }
 
 .nav .featured{
     background-color: orange;
+    box-shadow: 6px 2px #6f9090;
 }
 
 a:link{
